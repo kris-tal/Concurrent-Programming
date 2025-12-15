@@ -2,13 +2,21 @@
 Coursework for Concurrent Programming (2025/26) at Jagiellonian University, Theoretical Computer Science.
 ___
 
-## Technologies:
-CUDA, Thrust, ModernGPU (mgpu), OpenMP
+**Graph Algorithms**
+* Triangle Counting
+* Connected Components
+* Graph Diameter Approximation (BFS-based)
 
-## Algorithms:
-Matrix Multiplication (optimized using shared memory and tiling),
-Prefix Sum (Blelloch Scan algorithm), Parallel Reduction, Parallel Sort,
-Connected Components, BFS, Transitive Closure
+**Machine Learning & Cryptography**
+* Multilayer Perceptron (MLP) for MNIST Classification
+* Blockchain
+* Integer Factorization
+
+**Parallel Primitives**
+* Radix Sort
+* Parallel Prefix Sum (Scan)
+* Longest Common Subsequence (LCS)
+* 3SUM Problem
 
 ___
 
